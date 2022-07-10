@@ -1,0 +1,40 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-image: url('../img/thumb-1920-286536.jpg');
+    background-position: top;
+    font-family: sans-serif;
+    background-size: 1500px;
+    
+}
+h1{
+    margin-top: 50px;
+    padding: 0 0 20px;
+    text-align: center;
+    font-size: 20px;
+    color: aliceblue;
+
+
+}
+input{
+    border: none;
+    outline: none;
+    height: 40px;
+    background: #fff;
+    font-size: 18px;
+    border-radius: 20px;
+    width: 200px;
+    top: 20%;
+    left: 50%;
+    position: absolute;
+    transform: translate(-50%, -20%);
+    opacity: 65%;
+
+
+
+}
+input:hover{
+    cursor: pointer;
+    background: #ffc107;
+
+}
